@@ -1,4 +1,4 @@
-# Jeffrey's Weekly Section, All About Programing
+# My Weekly Section, All About Programing
 
 ## Content
 I will put the very best content come across every week into this repo. Hope you enjoy it.
